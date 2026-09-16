@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Kunde Nord",
+      "url": "",
+      "src": "/img/db/22eff284eeb0ac572bd4239c850f62f0.svg"
+    },
+    {
+      "name": "Kunde Süd",
+      "url": "",
+      "src": "/img/db/dda05eb1d48273960e6c08fb7f0b74f6.svg"
+    },
+    {
+      "name": "Kunde West",
+      "url": "",
+      "src": "/img/db/3067bd4f66c6b3eab1f7e9c41fe11ec2.svg"
+    },
+    {
+      "name": "Kunde Ost",
+      "url": "",
+      "src": "/img/db/702f544037ac0bac9ca794cda8129d9a.svg"
+    }
+  ]
+}

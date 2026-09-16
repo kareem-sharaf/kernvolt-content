@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "nameDe": "Zählerplatz Mehrfamilienhaus",
+      "nameEn": "Meter cabinet, apartment building",
+      "images": [
+        {
+          "src": "/img/db/4b2f8a01190b5ab3a473ebacdaabcb99.svg",
+          "alt": "Zählerplatz Mehrfamilienhaus – Bestand"
+        },
+        {
+          "src": "/img/db/d17132c32076d199c4c9af3ef81b4d4b.svg",
+          "alt": "Zählerplatz Mehrfamilienhaus – Demontage"
+        },
+        {
+          "src": "/img/db/d9bb29d7b9ec13266c7ce3fbe054ebd0.svg",
+          "alt": "Zählerplatz Mehrfamilienhaus – Neuer Zählerplatz"
+        },
+        {
+          "src": "/img/db/840011a19921c13d40c72311e9d8de69.svg",
+          "alt": "Zählerplatz Mehrfamilienhaus – Beschriftung"
+        },
+        {
+          "src": "/img/db/79f3e93df51206f4fffba46a7f94df83.svg",
+          "alt": "Zählerplatz Mehrfamilienhaus – Abnahme"
+        }
+      ]
+    },
+    {
+      "nameDe": "Photovoltaik Einfamilienhaus",
+      "nameEn": "Photovoltaics, detached house",
+      "images": [
+        {
+          "src": "/img/db/3644ceabf5f6a870c45a2eb01c1eec07.svg",
+          "alt": "Photovoltaik Einfamilienhaus – Dachbelegung"
+        },
+        {
+          "src": "/img/db/6adcccf110d9138f941221cee929f764.svg",
+          "alt": "Photovoltaik Einfamilienhaus – Wechselrichter"
+        },
+        {
+          "src": "/img/db/bed7f9e20a06ca39e498b1651e3c513a.svg",
+          "alt": "Photovoltaik Einfamilienhaus – Speicher"
+        },
+        {
+          "src": "/img/db/0b9a8b5c44951a844644fc0fc1f2b740.svg",
+          "alt": "Photovoltaik Einfamilienhaus – Inbetriebnahme"
+        }
+      ]
+    },
+    {
+      "nameDe": "Ladeinfrastruktur Gewerbehof",
+      "nameEn": "Charging infrastructure, commercial yard",
+      "images": [
+        {
+          "src": "/img/db/1e1488a60dda9328e942076897cda233.svg",
+          "alt": "Ladeinfrastruktur Gewerbehof – Trassenführung"
+        },
+        {
+          "src": "/img/db/3e391f089f8026511568234ae610e39d.svg",
+          "alt": "Ladeinfrastruktur Gewerbehof – Wallboxen"
+        },
+        {
+          "src": "/img/db/2dcf6b33e3eba6be0082ddb1eec1dda7.svg",
+          "alt": "Ladeinfrastruktur Gewerbehof – Lastmanagement"
+        }
+      ]
+    }
+  ]
+}

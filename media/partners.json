@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "name": "Partner Alpha",
+      "url": "",
+      "src": "/img/db/8638a7e8e54e03a0560f93ac78a6e58d.png"
+    },
+    {
+      "name": "Partner Beta",
+      "url": "",
+      "src": "/img/db/f606aac564c8eaa51bbfd70bf720d2fe.svg"
+    },
+    {
+      "name": "Partner Gamma",
+      "url": "",
+      "src": "/img/db/a837790bad5374dfe36b7349b8ba2d32.svg"
+    },
+    {
+      "name": "Partner Delta",
+      "url": "",
+      "src": "/img/db/a246722691c31beac8faccb9d45ce7b2.svg"
+    },
+    {
+      "name": "Partner Epsilon",
+      "url": "",
+      "src": "/img/db/5682d2c26a5e929dc1a31a880b43ab4d.svg"
+    }
+  ]
+}

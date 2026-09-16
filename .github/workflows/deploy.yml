@@ -19,6 +19,7 @@ on:
       - "content/**"
       - "images/**"
       - "design/**"
+      - "media/**"
   workflow_dispatch: # allows a manual re-publish from the Actions tab
 
 jobs:

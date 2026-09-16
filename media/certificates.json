@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "nameDe": "Meisterbrief Elektrotechnik",
+      "nameEn": "Master craftsman certificate, electrical",
+      "issuer": "Handwerkskammer, 2019",
+      "src": "/img/db/948baa847decaaa22dcf6339ddab29b0.jpg"
+    },
+    {
+      "nameDe": "Ausbildereignung (AEVO)",
+      "nameEn": "Certified trainer qualification (AEVO)",
+      "issuer": "IHK, 2021",
+      "src": "/img/db/59bfe6faa876d972ac66fe6a64f89958.svg"
+    },
+    {
+      "nameDe": "KNX Grundkurs (zertifiziert)",
+      "nameEn": "KNX basic course (certified)",
+      "issuer": "KNX Association, 2023",
+      "src": "/img/db/791979c9cbfe121fabf2a9568e1d8a83.svg"
+    }
+  ]
+}
