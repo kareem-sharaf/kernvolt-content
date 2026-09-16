@@ -1,0 +1,52 @@
+{
+  "de": {
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre@adresse.de",
+    "errors": {
+      "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "invalid": "Bitte prüfen Sie diese Eingabe.",
+      "required": "Dieses Feld ist erforderlich.",
+      "send": "Die Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder rufen Sie uns an.",
+      "summary": "Bitte prüfen Sie die markierten Felder."
+    },
+    "message": "Ihre Nachricht",
+    "messagePlaceholder": "Beschreiben Sie kurz Ihr Vorhaben.",
+    "name": "Name",
+    "namePlaceholder": "Ihr Vor- und Nachname",
+    "phone": "Telefon",
+    "phonePlaceholder": "Optional, für Rückfragen",
+    "privacy": "Ich habe die <a href=\"/datenschutz\" class=\"text-brand-600 underline underline-offset-2 transition-colors hover:text-brand-700\">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung meiner Daten zu.",
+    "sending": "Wird gesendet …",
+    "service": "Gewünschte Leistung",
+    "serviceDefault": "Bitte wählen",
+    "subject": "Betreff",
+    "subjectPlaceholder": "Worum geht es?",
+    "submit": "Anfrage senden",
+    "success": "Vielen Dank für Ihre Anfrage. Wir melden uns in der Regel am selben Werktag bei Ihnen."
+  },
+  "en": {
+    "email": "Email address",
+    "emailPlaceholder": "you@address.com",
+    "errors": {
+      "email": "Please enter a valid email address.",
+      "invalid": "Please check this entry.",
+      "required": "This field is required.",
+      "send": "Your message could not be sent. Please try again or give us a call.",
+      "summary": "Please check the fields marked."
+    },
+    "message": "Your message",
+    "messagePlaceholder": "Describe your project in a few lines.",
+    "name": "Name",
+    "namePlaceholder": "Your first and last name",
+    "phone": "Phone",
+    "phonePlaceholder": "Optional, in case we need to ask",
+    "privacy": "I have read the <a href=\"/datenschutz\" class=\"text-brand-600 underline underline-offset-2 transition-colors hover:text-brand-700\">privacy policy</a> and consent to my data being processed.",
+    "sending": "Sending …",
+    "service": "Service required",
+    "serviceDefault": "Please select",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is it about?",
+    "submit": "Send enquiry",
+    "success": "Thank you for your enquiry. We usually get back to you on the same working day."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "de": {
+    "companyTitle": "Unternehmen",
+    "contactTitle": "Kontakt",
+    "credit": "Entwickelt von",
+    "hoursTitle": "Öffnungszeiten",
+    "legalNote": "Die Angaben auf dieser Website sind Platzhalter und vor der Veröffentlichung zu ersetzen.",
+    "rights": "Alle Rechte vorbehalten.",
+    "servicesTitle": "Leistungen"
+  },
+  "en": {
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "credit": "Developed by",
+    "hoursTitle": "Opening hours",
+    "legalNote": "The details on this website are placeholders and must be replaced before publication.",
+    "rights": "All rights reserved.",
+    "servicesTitle": "Services"
+  }
+}

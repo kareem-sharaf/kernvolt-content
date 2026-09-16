@@ -1,0 +1,166 @@
+{
+  "de": {
+    "about": {
+      "description": "Inhabergeführter Elektrofachbetrieb aus Ludwigsfelde bei Berlin: Wer wir sind, wie wir arbeiten und wofür wir stehen.",
+      "title": "Unternehmen | KernVolt Elektrotechnik Ludwigsfelde"
+    },
+    "beleuchtung": {
+      "description": "Lichtplanung, LED-Umrüstung mit Wirtschaftlichkeitsberechnung und Notbeleuchtung nach DIN EN 1838.",
+      "title": "Licht- & Beleuchtungstechnik in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "career": {
+      "description": "Offene Stellen für Elektroniker, PV-Monteure und Auszubildende bei KernVolt in Ludwigsfelde bei Berlin.",
+      "title": "Karriere | KernVolt Elektrotechnik Ludwigsfelde"
+    },
+    "certificates": {
+      "description": "Meisterbrief, Ausbildereignung und Zusatzqualifikationen von KernVolt – alle Nachweise zum Ansehen.",
+      "title": "Zertifikate & Qualifikationen | KernVolt Elektrotechnik"
+    },
+    "contact": {
+      "description": "Kontaktieren Sie KernVolt: Telefon, E-Mail und Anfrageformular. Antwort in der Regel am selben Werktag.",
+      "title": "Kontakt | KernVolt Elektrotechnik Ludwigsfelde"
+    },
+    "elektro-service": {
+      "description": "Fehlersuche, Reparatur, Wartungsverträge und 24/7 Notdienst für elektrische Anlagen in Ludwigsfelde, Berlin und Brandenburg.",
+      "title": "Elektro-Service & Wartung in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "elektroinstallation": {
+      "description": "Komplette Elektroinstallation für Neubau, Sanierung und Gewerbe – normgerecht geplant, sauber ausgeführt und vollständig dokumentiert.",
+      "title": "Elektroinstallation in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "faq": {
+      "description": "Antworten auf häufige Fragen zu Kosten, Terminen, Prüffristen, Photovoltaik und Wartungsverträgen.",
+      "title": "Häufige Fragen | KernVolt Ludwigsfelde & Berlin"
+    },
+    "home": {
+      "description": "Elektroinstallation, Wartung, Schaltanlagenbau, Beleuchtung, Photovoltaik und Prüfungen nach DGUV V3 – Meisterbetrieb aus Ludwigsfelde für Berlin & Brandenburg mit 24/7 Notdienst.",
+      "title": "KernVolt | Elektrotechnik & Photovoltaik in Ludwigsfelde & Berlin"
+    },
+    "imprint": {
+      "description": "Impressum und Anbieterkennzeichnung der KernVolt GmbH.",
+      "title": "Impressum | KernVolt"
+    },
+    "kareem-sharaf": {
+      "description": "Beschreibung für Suchmaschinen.",
+      "title": "Kareem Sharaf | KernVolt"
+    },
+    "partner": {
+      "description": "Fachkräfte und Handwerksbetriebe aufgepasst: Werden Sie Teil des KernVolt-Netzwerks in Berlin und Brandenburg.",
+      "title": "Partner werden | KernVolt Elektrotechnik"
+    },
+    "photovoltaik": {
+      "description": "PV-Anlagen planen, montieren und anmelden – inklusive Batteriespeicher, Wallbox und Ertragsüberwachung.",
+      "title": "Photovoltaik & Speicher in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "privacy": {
+      "description": "Informationen zur Verarbeitung personenbezogener Daten auf der Website der KernVolt GmbH.",
+      "title": "Datenschutzerklärung | KernVolt"
+    },
+    "pruefung": {
+      "description": "Prüfung ortsveränderlicher Geräte und ortsfester Anlagen nach DGUV V3, E-Check und digitale Fristenverwaltung.",
+      "title": "Prüfung & E-Check nach DGUV V3 in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "schaltanlagenbau": {
+      "description": "Zählerplätze, Unterverteilungen und Steuerungsschränke – vorkonfektioniert, beschriftet und mit vollständigem Stromlaufplan.",
+      "title": "Schaltanlagen- & Verteilerbau in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "services": {
+      "description": "Unser Leistungsspektrum: Elektroinstallation, Service & Wartung, Schaltanlagenbau, Beleuchtung, Photovoltaik, Smart Home und Prüfungen nach DGUV V3.",
+      "title": "Leistungen im Überblick | KernVolt Ludwigsfelde & Berlin"
+    },
+    "smart-home": {
+      "description": "KNX-Planung, Lichtsteuerung, Zutrittskontrolle und Netzwerktechnik – herstellerunabhängig und ohne Cloud-Zwang.",
+      "title": "Smart Home & Gebäudetechnik in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "accessibility": {
+      "title": "Erklärung zur Barrierefreiheit | KernVolt",
+      "description": "Wie die Website der KernVolt GmbH Zugänglichkeit umsetzt: Tastaturbedienung, Kontrastmodus, semantische Struktur – und welche Einschränkungen noch bestehen."
+    },
+    "notfound": {
+      "title": "Seite nicht gefunden (404) | KernVolt",
+      "description": "Die aufgerufene Seite existiert nicht oder wurde verschoben. Hier geht es zurück zur Startseite und zur Leistungsübersicht der KernVolt GmbH."
+    }
+  },
+  "en": {
+    "about": {
+      "description": "An owner-run electrical contractor in Ludwigsfelde near Berlin: who we are, how we work and what we stand for.",
+      "title": "Company | KernVolt Electrical Engineering Ludwigsfelde"
+    },
+    "beleuchtung": {
+      "description": "Lighting design, LED conversion with a cost-benefit calculation and emergency lighting to DIN EN 1838.",
+      "title": "Lighting design & installation in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "career": {
+      "description": "Vacancies for electricians, solar fitters and apprentices at KernVolt in Ludwigsfelde near Berlin.",
+      "title": "Careers | KernVolt Electrical Engineering Ludwigsfelde"
+    },
+    "certificates": {
+      "description": "Master craftsman certificate, trainer qualification and further credentials from KernVolt – all documents to view.",
+      "title": "Certificates & qualifications | KernVolt Elektrotechnik"
+    },
+    "contact": {
+      "description": "Get in touch with KernVolt: phone, email and enquiry form. Usually answered the same working day.",
+      "title": "Contact | KernVolt Electrical Engineering Ludwigsfelde"
+    },
+    "elektro-service": {
+      "description": "Fault finding, repairs, maintenance contracts and 24/7 emergency call-out for electrical systems in Ludwigsfelde, Berlin and Brandenburg.",
+      "title": "Electrical service & maintenance in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "elektroinstallation": {
+      "description": "Complete electrical installation for new builds, refurbishments and commercial premises – planned to standard, cleanly executed and fully documented.",
+      "title": "Electrical installation in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "faq": {
+      "description": "Answers to common questions about costs, scheduling, test intervals, solar power and maintenance contracts.",
+      "title": "Common questions | KernVolt Ludwigsfelde & Berlin"
+    },
+    "home": {
+      "description": "Electrical installation, maintenance, switchgear, lighting, solar power and testing to DGUV V3 – a master-certified trade business in Ludwigsfelde serving Berlin & Brandenburg with 24/7 emergency cover.",
+      "title": "KernVolt | Electrical engineering & solar power in Ludwigsfelde & Berlin"
+    },
+    "imprint": {
+      "description": "Legal notice and provider identification for KernVolt GmbH.",
+      "title": "Legal notice | KernVolt"
+    },
+    "kareem-sharaf": {
+      "description": "Description for search engines.",
+      "title": "Kareem Sharaf | KernVolt"
+    },
+    "partner": {
+      "description": "Specialists and trade businesses: join the KernVolt network in Berlin and Brandenburg.",
+      "title": "Become a partner | KernVolt Elektrotechnik"
+    },
+    "photovoltaik": {
+      "description": "Planning, installing and registering solar arrays – including battery storage, Wallbox and yield monitoring.",
+      "title": "Solar power & storage in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "privacy": {
+      "description": "Information on the processing of personal data on the KernVolt GmbH website.",
+      "title": "Privacy policy | KernVolt"
+    },
+    "pruefung": {
+      "description": "Testing of portable appliances and fixed installations to DGUV V3, E-Check and digital due-date management.",
+      "title": "Testing & E-Check to DGUV V3 in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "schaltanlagenbau": {
+      "description": "Meter positions, sub-distribution boards and control cabinets – pre-assembled, labelled and supplied with a complete circuit diagram.",
+      "title": "Switchgear & distribution boards in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "services": {
+      "description": "What we do: electrical installation, service and maintenance, switchgear, lighting, solar power, smart home systems and testing to DGUV V3.",
+      "title": "Services at a glance | KernVolt Ludwigsfelde & Berlin"
+    },
+    "smart-home": {
+      "description": "KNX planning, lighting control, access control and network technology – manufacturer-independent and with no cloud lock-in.",
+      "title": "Smart home & building technology in Ludwigsfelde & Berlin | KernVolt"
+    },
+    "accessibility": {
+      "title": "Accessibility statement | KernVolt",
+      "description": "How the KernVolt GmbH website handles accessibility: keyboard operation, contrast mode, semantic structure – and which limitations remain."
+    },
+    "notfound": {
+      "title": "Page not found (404) | KernVolt",
+      "description": "The page you requested does not exist or has been moved. Here is the way back to the homepage and to the KernVolt GmbH service overview."
+    }
+  }
+}

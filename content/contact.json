@@ -1,0 +1,26 @@
+{
+  "de": {
+    "addressLabel": "Adresse",
+    "emailLabel": "E-Mail",
+    "eyebrow": "Kontakt",
+    "formNote": "Pflichtfelder sind mit * gekennzeichnet.",
+    "formTitle": "Anfrage senden",
+    "hoursLabel": "Öffnungszeiten",
+    "infoTitle": "So erreichen Sie uns",
+    "lead": "Rufen Sie an, schreiben Sie eine E-Mail oder nutzen Sie das Formular. Wir melden uns in der Regel am selben Werktag zurück.",
+    "phoneLabel": "Telefon",
+    "title": "Sprechen wir über Ihr Projekt"
+  },
+  "en": {
+    "addressLabel": "Address",
+    "emailLabel": "Email",
+    "eyebrow": "Contact",
+    "formNote": "Required fields are marked with *.",
+    "formTitle": "Send an enquiry",
+    "hoursLabel": "Opening hours",
+    "infoTitle": "How to reach us",
+    "lead": "Give us a call, send an email or use the form. We usually come back to you the same working day.",
+    "phoneLabel": "Phone",
+    "title": "Let's talk about your project"
+  }
+}

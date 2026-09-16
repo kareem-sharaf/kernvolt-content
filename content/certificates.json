@@ -1,0 +1,24 @@
+{
+  "de": {
+    "ausbildereignung-aevo": {
+      "name": "Ausbildereignung (AEVO)"
+    },
+    "knx-grundkurs": {
+      "name": "KNX Grundkurs (zertifiziert)"
+    },
+    "meisterbrief-elektrotechnik": {
+      "name": "Meisterbrief Elektrotechnik"
+    }
+  },
+  "en": {
+    "ausbildereignung-aevo": {
+      "name": "Certified trainer qualification (AEVO)"
+    },
+    "knx-grundkurs": {
+      "name": "KNX basic course (certified)"
+    },
+    "meisterbrief-elektrotechnik": {
+      "name": "Master craftsman certificate, electrical"
+    }
+  }
+}

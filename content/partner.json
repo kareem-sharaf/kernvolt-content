@@ -1,0 +1,36 @@
+{
+  "de": {
+    "companyLabel": "Firma (optional)",
+    "experienceLabel": "Berufserfahrung",
+    "experiencePlaceholder": "z. B. 8 Jahre",
+    "eyebrow": "Zusammenarbeit",
+    "formTitle": "Ihre Angaben",
+    "lead": "Erzählen Sie uns kurz, was Sie machen und wo Sie arbeiten. Wir melden uns persönlich zurück – in der Regel innerhalb von zwei Werktagen.",
+    "messageLabel": "Ihre Nachricht",
+    "messagePlaceholder": "Was bringen Sie mit, und woran möchten Sie mitarbeiten?",
+    "regionLabel": "Einsatzgebiet / Region",
+    "regionPlaceholder": "z. B. Berlin und Umland",
+    "required": "Mit * markierte Felder sind Pflichtfelder.",
+    "submit": "Anfrage senden",
+    "title": "Partner werden",
+    "tradeLabel": "Gewerk / Fachbereich",
+    "tradePlaceholder": "z. B. Sanitär, Heizung, Trockenbau, Malerarbeiten …"
+  },
+  "en": {
+    "companyLabel": "Company (optional)",
+    "experienceLabel": "Years of experience",
+    "experiencePlaceholder": "e.g. 8 years",
+    "eyebrow": "Cooperation",
+    "formTitle": "Your details",
+    "lead": "Tell us briefly what you do and where you work. We will get back to you personally – usually within two working days.",
+    "messageLabel": "Your message",
+    "messagePlaceholder": "What do you bring with you, and what would you like to work on?",
+    "regionLabel": "Area covered / region",
+    "regionPlaceholder": "e.g. Berlin and surroundings",
+    "required": "Fields marked * are required.",
+    "submit": "Send request",
+    "title": "Become a partner",
+    "tradeLabel": "Trade / speciality",
+    "tradePlaceholder": "e.g. plumbing, heating, drywall, painting …"
+  }
+}

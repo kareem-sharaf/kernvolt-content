@@ -1,0 +1,36 @@
+{
+  "de": {
+    "applyText": "Ein kurzer Anruf reicht für den Anfang. Ein vollständiger Lebenslauf ist willkommen, aber keine Voraussetzung für ein erstes Gespräch.",
+    "applyTitle": "Interesse?",
+    "eyebrow": "Karriere",
+    "job1": "Elektroniker/in für Energie- und Gebäudetechnik (m/w/d)",
+    "job2": "Monteur/in Photovoltaik (m/w/d)",
+    "job3": "Auszubildende/r Elektroniker/in (m/w/d)",
+    "jobType": "Vollzeit · Ludwigsfelde",
+    "lead": "Wir suchen Menschen, die sauber arbeiten und mitdenken. Dafür bieten wir ordentliche Bezahlung, planbare Arbeitszeiten und Werkzeug, das funktioniert.",
+    "offer1": "Übertarifliche Bezahlung und Zuschläge, die auch ausgezahlt werden",
+    "offer2": "Feierabend ist Feierabend – Überstunden bleiben die Ausnahme",
+    "offer3": "Moderne Werkzeuge und ein eigenes, gut ausgestattetes Fahrzeug",
+    "offer4": "Fortbildungen werden bezahlt, nicht nur erlaubt",
+    "offerTitle": "Was wir bieten",
+    "openTitle": "Offene Stellen",
+    "title": "Arbeiten bei KernVolt"
+  },
+  "en": {
+    "applyText": "A short phone call is enough to start with. A full CV is welcome but not a requirement for a first conversation.",
+    "applyTitle": "Interested?",
+    "eyebrow": "Careers2",
+    "job1": "Electrician for power and building services (m/f/d)",
+    "job2": "Solar installation fitter (m/f/d)",
+    "job3": "Apprentice electrician (m/f/d)",
+    "jobType": "Full time · Ludwigsfelde",
+    "lead": "We are looking for people who work cleanly and think for themselves. In return we offer proper pay, predictable hours and tools that work.",
+    "offer1": "Above-scale pay and supplements that actually get paid out",
+    "offer2": "When the day is done, it is done – overtime stays the exception",
+    "offer3": "Modern tools and your own, properly equipped vehicle",
+    "offer4": "Training that is paid for, not merely permitted",
+    "offerTitle": "What we offer",
+    "openTitle": "Current vacancies",
+    "title": "Working at KernVolt"
+  }
+}

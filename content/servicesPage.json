@@ -1,0 +1,26 @@
+{
+  "de": {
+    "detailBenefitsTitle": "Ihre Vorteile",
+    "detailCtaText": "Fordern Sie ein unverbindliches Angebot an – wir melden uns in der Regel am selben Werktag zurück.",
+    "detailCtaTitle": "Interesse an dieser Leistung?",
+    "detailScopeTitle": "Leistungsumfang",
+    "eyebrow": "Leistungsübersicht",
+    "helpText": "Beschreiben Sie uns kurz Ihr Vorhaben – wir sagen Ihnen ehrlich, welche Leistung passt und was sie kostet. Auch wenn die Antwort lautet: Das brauchen Sie nicht.",
+    "helpTitle": "Nicht sicher, was Sie brauchen?",
+    "lead": "Entdecken Sie hier unser vielfältiges Leistungsspektrum – von der klassischen Elektroinstallation über Schaltanlagenbau und Beleuchtung bis hin zu Photovoltaik, Smart Home und Prüfungen nach DGUV V3.",
+    "otherServices": "Weitere Leistungen",
+    "title": "Individuelle Lösungen für jeden Bedarf"
+  },
+  "en": {
+    "detailBenefitsTitle": "What you get out of it",
+    "detailCtaText": "Ask for a quote with no obligation – we usually come back to you the same working day.",
+    "detailCtaTitle": "Interested in this service?",
+    "detailScopeTitle": "What is included",
+    "eyebrow": "Service overview",
+    "helpText": "Describe your project in a few lines – we will tell you honestly which service fits and what it costs. Even if the answer is that you do not need it.",
+    "helpTitle": "Not sure what you need?",
+    "lead": "Here you will find the full range of what we do – from everyday electrical installation, switchgear and lighting through to solar power, smart home systems and testing to DGUV V3.",
+    "otherServices": "Other services",
+    "title": "Solutions built around what you actually need"
+  }
+}

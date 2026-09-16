@@ -1,0 +1,24 @@
+{
+  "de": {
+    "ladeinfrastruktur-gewerbehof": {
+      "name": "Ladeinfrastruktur Gewerbehof"
+    },
+    "photovoltaik-einfamilienhaus": {
+      "name": "Photovoltaik Einfamilienhaus"
+    },
+    "zaehlerplatz-mehrfamilienhaus": {
+      "name": "Zählerplatz Mehrfamilienhaus"
+    }
+  },
+  "en": {
+    "ladeinfrastruktur-gewerbehof": {
+      "name": "Charging infrastructure, commercial yard"
+    },
+    "photovoltaik-einfamilienhaus": {
+      "name": "Photovoltaics, detached house"
+    },
+    "zaehlerplatz-mehrfamilienhaus": {
+      "name": "Meter cabinet, apartment building"
+    }
+  }
+}

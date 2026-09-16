@@ -1,0 +1,310 @@
+{
+  "de": {
+    "beleuchtung": {
+      "benefits": [
+        "Bis zu 70 % weniger Stromverbrauch nach LED-Umrüstung",
+        "Beleuchtungsstärken nach Arbeitsstättenrichtlinie nachgewiesen",
+        "Musterinstallation vor Großaufträgen möglich",
+        "Entsorgung der Altleuchten fachgerecht inklusive"
+      ],
+      "intro": "Licht ist der Teil der Elektroinstallation, den man täglich bewusst wahrnimmt. Wir planen Beleuchtung nach Lichtstärke, Farbtemperatur und Blendfreiheit – nicht nach Katalogseite. Bei gewerblichen Umrüstungen rechnen wir die Amortisation vorher durch.",
+      "lead": "Von der Büroumrüstung auf LED bis zur normgerechten Sicherheitsbeleuchtung im Gewerbeobjekt.",
+      "scope": [
+        "Lichtplanung für Wohn-, Büro- und Gewerbeflächen",
+        "LED-Umrüstung mit Wirtschaftlichkeitsberechnung",
+        "Sicherheits- und Notbeleuchtung nach DIN EN 1838",
+        "Außen-, Fassaden- und Wegebeleuchtung",
+        "Präsenz-, Tageslicht- und Zeitsteuerung",
+        "Wartung und Prüfung von Notlichtanlagen"
+      ],
+      "teaser": "Lichtplanung, LED-Umrüstung und Notbeleuchtung. Gutes Licht senkt Kosten und verbessert spürbar, wie ein Raum wirkt.",
+      "title": "Licht- & Beleuchtungstechnik"
+    },
+    "elektro-service": {
+      "benefits": [
+        "Reaktionszeiten, die im Wartungsvertrag verbindlich festgehalten sind",
+        "Ersatzteile gängiger Hersteller direkt am Fahrzeug",
+        "Transparente Abrechnung nach tatsächlichem Aufwand",
+        "Wartungshistorie digital dokumentiert und jederzeit abrufbar"
+      ],
+      "intro": "Die meisten Elektroprobleme kündigen sich an: ein Schalter, der warm wird, ein FI, der gelegentlich auslöst, ein Flackern beim Einschalten. Wer solche Zeichen ernst nimmt, spart sich den Notfall. Unser Service deckt beides ab – die geplante Wartung und den Anruf um 22 Uhr.",
+      "lead": "Schnelle Hilfe bei Störungen und planbare Wartung, die Ausfälle gar nicht erst entstehen lässt.",
+      "scope": [
+        "Systematische Fehlersuche und Störungsbeseitigung",
+        "Reparatur und Austausch defekter Komponenten",
+        "Wartungsverträge mit festen Intervallen und Ansprechpartner",
+        "Thermografie zur frühzeitigen Erkennung von Schwachstellen",
+        "Austausch veralteter Sicherungskästen gegen moderne Verteiler",
+        "24/7 Notdienst bei Stromausfall und akuten Störungen"
+      ],
+      "teaser": "Reparatur, Fehlersuche und regelmäßige Wartung. Wir halten Ihre Anlage im Betrieb – und sind da, wenn doch einmal etwas ausfällt.",
+      "title": "Elektro-Service & Wartung"
+    },
+    "elektroinstallation": {
+      "benefits": [
+        "Elektroplanung nach tatsächlichem Bedarf statt nach Mindeststandard",
+        "Reserven im Verteiler für spätere Erweiterungen eingeplant",
+        "Staubarme Arbeitsweise auch in bewohnten Räumen",
+        "Vollständige Dokumentation und Messprotokoll bei Übergabe"
+      ],
+      "intro": "Eine gute Elektroinstallation fällt nicht auf. Sie ist einfach da, wenn man sie braucht, und hält Jahrzehnte. Genau darauf legen wir es an: ausreichend dimensionierte Leitungen, durchdachte Steckdosenpositionen und ein Verteiler, in dem sich auch in zehn Jahren noch jemand zurechtfindet.",
+      "lead": "Von der Rohinstallation im Neubau bis zur behutsamen Sanierung im bewohnten Altbau – wir bringen Ihre Elektrik auf den Stand der Technik.",
+      "scope": [
+        "Komplette Neuinstallation im Wohnungs- und Gewerbebau",
+        "Altbausanierung inklusive Erneuerung von Steig- und Zuleitungen",
+        "Verlegung von Leerrohren, Kabeltrassen und Brüstungskanälen",
+        "Steckdosen, Schalter, Taster und Anschlüsse nach Ihrer Nutzungsplanung",
+        "Herd-, Wallbox- und Starkstromanschlüsse",
+        "Potenzialausgleich, Erdung und Blitzschutzanbindung"
+      ],
+      "teaser": "Neubau, Sanierung oder Erweiterung: Wir planen und verlegen Ihre komplette Elektroinstallation – normgerecht, sauber und auf den tatsächlichen Bedarf zugeschnitten.",
+      "title": "Elektroinstallation"
+    },
+    "kareem-sharaf": {
+      "benefits": [
+        "Ihr erster Vorteil"
+      ],
+      "intro": "Ausführliche Beschreibung dieser Leistung.",
+      "lead": "Einleitung im Seitenkopf.",
+      "scope": [
+        "Erster Leistungspunkt"
+      ],
+      "teaser": "Kurzbeschreibung für die Übersichtskarte.",
+      "title": "Kareem Sharaf"
+    },
+    "photovoltaik": {
+      "benefits": [
+        "Auslegung nach Ihrem Verbrauch, nicht nach maximaler Dachfläche",
+        "Alle Gewerke aus einer Hand – kein Koordinieren zwischen Firmen",
+        "Bürokratie inklusive: Anmeldung und Nachweise übernehmen wir",
+        "Fernüberwachung erkennt Ertragsausfälle, bevor Sie es merken"
+      ],
+      "intro": "Eine Photovoltaikanlage rechnet sich vor allem über den Eigenverbrauch. Deshalb beginnt unsere Planung nicht auf dem Dach, sondern bei Ihrem Lastprofil: Wann brauchen Sie wie viel Strom? Daraus ergibt sich, wie groß Anlage und Speicher sinnvollerweise sein sollten.",
+      "lead": "Eigenen Strom erzeugen, speichern und nutzen. Wir übernehmen den gesamten Weg dorthin.",
+      "scope": [
+        "Ertragsberechnung und Wirtschaftlichkeitsprognose",
+        "Montage auf Schräg-, Flach- und Gewerbedächern",
+        "Wechselrichter, Batteriespeicher und Energiemanagement",
+        "Wallbox-Installation mit PV-Überschussladen",
+        "Anmeldung beim Netzbetreiber und im Marktstammdatenregister",
+        "Monitoring, Wartung und Ertragskontrolle"
+      ],
+      "teaser": "Planung, Montage und Anmeldung Ihrer PV-Anlage – inklusive Speicher, Wallbox und Inbetriebnahme beim Netzbetreiber.",
+      "title": "Photovoltaik & Speicher"
+    },
+    "pruefung": {
+      "benefits": [
+        "Prüfung außerhalb der Betriebszeiten auf Wunsch möglich",
+        "Barcode-Kennzeichnung mit eindeutiger Gerätehistorie",
+        "Automatische Erinnerung vor Ablauf der Prüffristen",
+        "Kleinere Mängel werden direkt vor Ort behoben"
+      ],
+      "intro": "Als Arbeitgeber sind Sie verpflichtet, elektrische Betriebsmittel regelmäßig prüfen zu lassen. Passiert etwas ohne gültiges Protokoll, wird es schnell unangenehm. Wir prüfen strukturiert, kennzeichnen jedes Gerät und liefern die Dokumentation digital – inklusive Erinnerung zum nächsten Termin.",
+      "lead": "Wiederkehrende Prüfungen sind Pflicht. Wir erledigen sie so, dass sie Ihren Betrieb kaum aufhalten.",
+      "scope": [
+        "Prüfung ortsveränderlicher Geräte nach DGUV V3",
+        "Prüfung ortsfester Anlagen und Maschinen",
+        "E-Check für Privathaushalte und Vermieter",
+        "Prüfung nach Umbau, Erweiterung oder Schadensfall",
+        "Erstellung und Pflege des Geräteverzeichnisses",
+        "Digitale Prüfprotokolle und Fristenverwaltung"
+      ],
+      "teaser": "E-Check, ortsveränderliche Geräte nach DGUV V3 und Anlagenprüfung – mit Protokoll, das vor Versicherung und Berufsgenossenschaft Bestand hat.",
+      "title": "Prüfung & Sicherheit"
+    },
+    "schaltanlagenbau": {
+      "benefits": [
+        "Vorkonfektionierung in der Werkstatt – kürzere Abschaltzeiten vor Ort",
+        "Nur Markenkomponenten mit langfristiger Ersatzteilverfügbarkeit",
+        "Ausreichend Platzreserve für künftige Abgänge",
+        "Anmeldung und Abstimmung mit dem Netzbetreiber übernehmen wir"
+      ],
+      "intro": "Ein sauber aufgebauter Schaltschrank spart bei jeder späteren Änderung Zeit und Geld. Wir konfektionieren Verteilungen im eigenen Aufbau, beschriften jeden Abgang eindeutig und übergeben einen vollständigen Stromlaufplan – digital und als Ausdruck im Schrank.",
+      "lead": "Der Verteiler ist das Herz jeder Elektroanlage. Wir bauen ihn so, dass er auch in zwanzig Jahren noch verständlich ist.",
+      "scope": [
+        "Zählerplätze nach TAB des jeweiligen Netzbetreibers",
+        "Haupt- und Unterverteilungen für Wohnen, Gewerbe und Industrie",
+        "Steuerungs- und Automatisierungsschränke",
+        "Erneuerung und Erweiterung bestehender Verteilungen",
+        "Selektivitäts- und Kurzschlussstrombetrachtung",
+        "Beschriftung, Stromlaufplan und Revisionsunterlagen"
+      ],
+      "teaser": "Zählerplätze, Unterverteilungen und Steuerungsschränke – konfektioniert, beschriftet und mit geprüfter Übergabe inklusive.",
+      "title": "Schaltanlagen- & Verteilerbau"
+    },
+    "smart-home": {
+      "benefits": [
+        "Herstellerunabhängige Systeme ohne Cloud-Zwang",
+        "Jede Funktion bleibt auch manuell am Schalter bedienbar",
+        "Verständliche Einweisung statt dickem Handbuch",
+        "Erweiterbar, ohne die Grundinstallation anzufassen"
+      ],
+      "intro": "Gebäudeautomation ist dann gut, wenn sie unauffällig funktioniert. Wir planen Systeme, die ohne App bedienbar bleiben, deren Szenen nachvollziehbar sind und die auch dann noch laufen, wenn ein Hersteller seinen Cloud-Dienst einstellt. Bevorzugt auf KNX-Basis.",
+      "lead": "Licht, Heizung, Beschattung und Sicherheit sinnvoll verbunden statt spielerisch vernetzt.",
+      "scope": [
+        "KNX-Planung, -Installation und -Programmierung",
+        "Licht-, Heizungs- und Beschattungssteuerung",
+        "Türsprechanlagen und Zutrittskontrolle",
+        "Netzwerk, WLAN-Ausleuchtung und strukturierte Verkabelung",
+        "Alarm- und Videotechnik",
+        "Nachrüstung bestehender Installationen"
+      ],
+      "teaser": "KNX, Smart Home und Gebäudeautomation. Technik, die im Alltag hilft – und die Sie auch ohne Handbuch bedienen können.",
+      "title": "Smart Home & Gebäudetechnik"
+    }
+  },
+  "en": {
+    "beleuchtung": {
+      "benefits": [
+        "Up to 70% lower electricity use after an LED conversion",
+        "Light levels evidenced against workplace lighting regulations",
+        "Sample installation possible before large orders",
+        "Proper disposal of the old fittings included"
+      ],
+      "intro": "Lighting is the part of an electrical installation you consciously notice every day. We plan it around light levels, colour temperature and glare control – not around a catalogue page. For commercial conversions we work out the payback beforehand.",
+      "lead": "From converting an office to LED through to code-compliant emergency lighting on a commercial site.",
+      "scope": [
+        "Lighting design for homes, offices and commercial spaces",
+        "LED conversion with a cost-benefit calculation",
+        "Safety and emergency lighting to DIN EN 1838",
+        "Exterior, façade and pathway lighting",
+        "Presence, daylight and time-based control",
+        "Maintenance and testing of emergency lighting systems"
+      ],
+      "teaser": "Lighting design, LED conversion and emergency lighting. Good light lowers costs and noticeably changes how a room feels.",
+      "title": "Lighting design & installation"
+    },
+    "elektro-service": {
+      "benefits": [
+        "Response times set out bindingly in the maintenance contract",
+        "Spare parts from the common manufacturers carried in the van",
+        "Transparent billing based on the work actually done",
+        "Maintenance history documented digitally and available at any time"
+      ],
+      "intro": "Most electrical problems announce themselves: a switch that gets warm, an FI (RCD) that trips now and then, a flicker when things power up. Take those signs seriously and you spare yourself the emergency. Our service covers both – the planned inspection and the call at ten in the evening.",
+      "lead": "Fast help when something goes wrong, and planned maintenance that stops failures happening in the first place.",
+      "scope": [
+        "Systematic fault finding and fault clearance",
+        "Repair and replacement of faulty components",
+        "Maintenance contracts with fixed intervals and a named contact",
+        "Thermographic surveys to catch weak points early",
+        "Replacing outdated fuse boxes with modern distribution boards",
+        "24/7 emergency call-out for power failures and urgent faults"
+      ],
+      "teaser": "Repairs, fault finding and regular servicing. We keep your installation running – and we are there on the day something does fail.",
+      "title": "Electrical service & maintenance"
+    },
+    "elektroinstallation": {
+      "benefits": [
+        "Electrical design based on real requirements, not the minimum standard",
+        "Spare capacity in the distribution board planned in for later additions",
+        "Low-dust working methods, including in occupied rooms",
+        "Full documentation and test report at handover"
+      ],
+      "intro": "A good electrical installation goes unnoticed. It is simply there when you need it, and it lasts for decades. That is exactly what we aim for: generously sized cabling, sockets where they make sense, and a distribution board that still makes sense to someone in ten years' time.",
+      "lead": "From first fix in a new build to careful rewiring in an occupied period property – we bring your electrics up to current standards.",
+      "scope": [
+        "Complete first-time installation in residential and commercial buildings",
+        "Rewiring of older buildings including risers and supply cables",
+        "Conduit, cable tray and dado trunking installation",
+        "Sockets, switches, controls and outlets laid out around how you use the space",
+        "Cooker, Wallbox and three-phase power connections",
+        "Equipotential bonding, earthing and lightning protection connections"
+      ],
+      "teaser": "New build, refurbishment or extension: we plan and lay your complete electrical installation – to standard, tidily and sized for what you really use.",
+      "title": "Electrical installation"
+    },
+    "kareem-sharaf": {
+      "benefits": [
+        "Your first benefit"
+      ],
+      "intro": "Full description of this service.",
+      "lead": "Intro shown in the page header.",
+      "scope": [
+        "First scope item"
+      ],
+      "teaser": "Short description for the overview card.",
+      "title": "Kareem Sharaf"
+    },
+    "photovoltaik": {
+      "benefits": [
+        "Sized around your consumption, not around the largest possible roof area",
+        "Every trade from one team – no coordinating between firms",
+        "Paperwork included: we handle the registrations and the evidence",
+        "Remote monitoring spots yield losses before you notice them"
+      ],
+      "intro": "A solar installation pays for itself mainly through what you use yourself. That is why our planning does not start on the roof but with your load profile: when do you need how much electricity? From that follows how large the array and the battery sensibly need to be.",
+      "lead": "Generate your own electricity, store it and use it. We take care of the whole route there.",
+      "scope": [
+        "Yield calculation and payback forecast",
+        "Installation on pitched, flat and commercial roofs",
+        "Inverters, battery storage and energy management",
+        "Wallbox installation with surplus solar charging",
+        "Registration with the grid operator and in the Marktstammdatenregister (German energy market registry)",
+        "Monitoring, maintenance and yield checks"
+      ],
+      "teaser": "Planning, installation and registration of your solar array – including battery storage, Wallbox and commissioning with the grid operator.",
+      "title": "Solar power & storage"
+    },
+    "pruefung": {
+      "benefits": [
+        "Testing outside operating hours where you prefer it",
+        "Barcode labelling with a clear history for each appliance",
+        "Automatic reminders before test intervals expire",
+        "Minor defects put right on the spot"
+      ],
+      "intro": "As an employer you are required to have electrical equipment tested regularly. If something happens without a valid report, it gets uncomfortable quickly. We test methodically, label every appliance and deliver the documentation digitally – including a reminder for the next date due.",
+      "lead": "Periodic testing is a legal duty. We do it in a way that barely interrupts your operation.",
+      "scope": [
+        "Testing of portable appliances to DGUV V3",
+        "Testing of fixed installations and machinery",
+        "E-Check for private households and landlords",
+        "Testing after alterations, extensions or damage",
+        "Compiling and maintaining the equipment register",
+        "Digital test reports and due-date management"
+      ],
+      "teaser": "E-Check, portable appliance testing to DGUV V3 and fixed installation testing – with reports that stand up to insurers and trade associations.",
+      "title": "Testing & safety"
+    },
+    "schaltanlagenbau": {
+      "benefits": [
+        "Pre-assembly in the workshop – shorter shutdowns on site",
+        "Brand components only, with spare parts available long term",
+        "Enough spare space for circuits you add later",
+        "We handle registration and coordination with the grid operator"
+      ],
+      "intro": "A cleanly built cabinet saves time and money on every later change. We assemble boards in our own workshop, label every outgoing circuit unambiguously and hand over a complete circuit diagram – digitally and as a printout inside the cabinet.",
+      "lead": "The distribution board is the heart of any electrical installation. We build it so that it still makes sense twenty years from now.",
+      "scope": [
+        "Meter positions built to TAB, the grid operator's technical connection rules",
+        "Main and sub-distribution boards for homes, business and industry",
+        "Control and automation cabinets",
+        "Replacement and extension of existing distribution boards",
+        "Discrimination and short-circuit current assessment",
+        "Labelling, circuit diagrams and as-built documentation"
+      ],
+      "teaser": "Meter positions, sub-distribution boards and control cabinets – built up, labelled and handed over tested.",
+      "title": "Switchgear & distribution boards"
+    },
+    "smart-home": {
+      "benefits": [
+        "Manufacturer-independent systems with no cloud lock-in",
+        "Every function still works manually at the switch",
+        "A clear handover briefing instead of a thick manual",
+        "Extendable without touching the underlying installation"
+      ],
+      "intro": "Building automation is good when it works quietly in the background. We plan systems that stay usable without an app, whose scenes are easy to follow, and that keep running when a manufacturer shuts down its cloud service. Preferably built on KNX.",
+      "lead": "Lighting, heating, blinds and security joined up sensibly rather than networked for its own sake.",
+      "scope": [
+        "KNX planning, installation and programming",
+        "Lighting, heating and blind control",
+        "Door entry systems and access control",
+        "Network, Wi-Fi coverage and structured cabling",
+        "Alarm and video systems",
+        "Retrofitting existing installations"
+      ],
+      "teaser": "KNX, smart home and building automation. Technology that helps day to day – and that you can operate without a manual.",
+      "title": "Smart home & building technology"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "de": {
+    "allServices": "Alle Leistungen",
+    "backToServices": "Zurück zur Übersicht",
+    "backToTop": "Nach oben",
+    "becomePartner": "Partner werden",
+    "callNow": "Jetzt anrufen",
+    "close": "Schließen",
+    "contactUs": "Kontakt aufnehmen",
+    "increaseContrast": "Kontrast erhöhen",
+    "language": "Sprache",
+    "learnMore": "Mehr erfahren",
+    "next": "Weiter",
+    "partnerRequest": "Jetzt Zusammenarbeit anfragen",
+    "prev": "Zurück",
+    "requestOffer": "Angebot anfordern",
+    "toContact": "Zum Kontaktformular",
+    "whatsapp": "Per WhatsApp schreiben",
+    "whatsappShort": "WhatsApp",
+    "writeEmail": "E-Mail schreiben"
+  },
+  "en": {
+    "allServices": "All services",
+    "backToServices": "Back to overview",
+    "backToTop": "Back to top",
+    "becomePartner": "Become a partner",
+    "callNow": "Call us now",
+    "close": "Close",
+    "contactUs": "Get in touch",
+    "increaseContrast": "Increase contrast",
+    "language": "Language",
+    "learnMore": "Find out more",
+    "next": "Next",
+    "partnerRequest": "Request cooperation now",
+    "prev": "Previous",
+    "requestOffer": "Request a quote",
+    "toContact": "To the contact form",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappShort": "WhatsApp",
+    "writeEmail": "Send an email"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "de": {
+    "accessibilityLead": "Wie diese Website Zugänglichkeit umsetzt – und wo noch Lücken bestehen.",
+    "accessibilityTitle": "Erklärung zur Barrierefreiheit",
+    "imprintLead": "Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz).",
+    "imprintTitle": "Impressum",
+    "placeholderWarning": "Platzhalter-Text. Vor dem Livegang durch rechtlich geprüften Inhalt ersetzen.",
+    "privacyLead": "Informationen zur Verarbeitung personenbezogener Daten auf dieser Website.",
+    "privacyTitle": "Datenschutzerklärung"
+  },
+  "en": {
+    "accessibilityLead": "How this website handles accessibility – and where gaps remain.",
+    "accessibilityTitle": "Accessibility statement",
+    "imprintLead": "Information pursuant to § 5 DDG (German Digital Services Act).",
+    "imprintTitle": "Legal notice",
+    "placeholderWarning": "Placeholder text. Replace with legally reviewed content before going live.",
+    "privacyLead": "Information on the processing of personal data on this website.",
+    "privacyTitle": "Privacy policy"
+  }
+}

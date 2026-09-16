@@ -1,0 +1,46 @@
+# Rebuild the website whenever content changes.
+#
+# The site's code lives in a separate private repository and pulls this content
+# at build time, so a commit here does not rebuild anything on its own. This
+# workflow calls a Vercel Deploy Hook to start that rebuild.
+#
+# Setup (once): in Vercel -> Project -> Settings -> Git -> Deploy Hooks, create a
+# hook for the main branch, then add its URL here as a repository secret named
+# VERCEL_DEPLOY_HOOK (Settings -> Secrets and variables -> Actions).
+#
+# The hook URL is a secret: anyone holding it can trigger builds.
+
+name: Publish content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+      - "images/**"
+  workflow_dispatch: # allows a manual re-publish from the Actions tab
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the website rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::VERCEL_DEPLOY_HOOK is not set — see the README. Content was saved, but the website will not update until this is configured."
+            exit 1
+          fi
+
+          status=$(curl -s -o response.txt -w "%{http_code}" -X POST "$HOOK")
+          echo "Vercel responded with HTTP $status"
+          cat response.txt
+
+          # Vercel answers 201 when a build is queued.
+          if [ "$status" != "200" ] && [ "$status" != "201" ]; then
+            echo "::error::Vercel did not accept the rebuild request."
+            exit 1
+          fi
+
+          echo "Rebuild queued. The site updates in about a minute."

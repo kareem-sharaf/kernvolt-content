@@ -1,0 +1,36 @@
+{
+  "de": {
+    "city": "14974 Ludwigsfelde",
+    "claim": "Elektrotechnik & Energielösungen",
+    "email": "Sharaf@KernVolt.info",
+    "emergency": "24/7 Notdienst",
+    "emergencyNote": "Außerhalb der Geschäftszeiten erreichen Sie unseren Störungsdienst.",
+    "hoursSat": "Samstag:",
+    "hoursSatValue": "09:00 - 13:00",
+    "hoursWeek": "Montag - Freitag:",
+    "hoursWeekValue": "07:30 - 17:00",
+    "legalName": "KernVolt GmbH",
+    "name": "KernVolt",
+    "phoneLabel": "+49 176 20134693",
+    "street": "Straße der Jugend 18",
+    "tagline": "Ihr Partner für Energie & Technik",
+    "taglineSub": "innovativ, zuverlässig & qualitativ"
+  },
+  "en": {
+    "city": "14974 Ludwigsfelde",
+    "claim": "Electrical Engineering & Energy Solutions",
+    "email": "Sharaf@KernVolt.info",
+    "emergency": "24/7 emergency call-out",
+    "emergencyNote": "Outside office hours, our fault service line is always staffed.",
+    "hoursSat": "Saturday:",
+    "hoursSatValue": "09:00 - 13:00",
+    "hoursWeek": "Monday - Friday:",
+    "hoursWeekValue": "07:30 - 17:00",
+    "legalName": "KernVolt GmbH",
+    "name": "321KernVolt123",
+    "phoneLabel": "+49 176 20134693",
+    "street": "Straße der Jugend 18",
+    "tagline": "Your partner for energy and technology",
+    "taglineSub": "inventive, dependable and well built"
+  }
+}
