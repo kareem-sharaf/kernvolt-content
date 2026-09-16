@@ -20,6 +20,7 @@ aktualisiert.
 |---|---|
 | `content/` | 18 Dateien, je ein Bereich der Website (Startseite, Über uns, …) |
 | `images/uploads/` | Bilder, die über den Editor hochgeladen werden |
+| `design/theme.json` | Die zwei Farben der Website (Haupt- und Signalfarbe) |
 
 Jede Datei enthält beide Sprachen:
 
@@ -29,6 +30,21 @@ Jede Datei enthält beide Sprachen:
   "en": { "heroTitle": "Power that arrives." }
 }
 ```
+
+---
+
+## Farben
+
+Im Editor unter **Design → Farben**. Zwei Farben werden gewählt:
+
+| Feld | Wirkung | Standard |
+|---|---|---|
+| Hauptfarbe | Buttons, Links, Akzente | `#0a9dd9` |
+| Signalfarbe | Sparsame Hervorhebungen | `#e29100` |
+
+Alle helleren und dunkleren Abstufungen werden beim Build daraus berechnet. Die
+Schriftfarbe auf farbigen Flächen (weiß oder fast schwarz) wird ebenfalls
+automatisch bestimmt, damit Buttons in jedem Fall lesbar bleiben.
 
 ---
 

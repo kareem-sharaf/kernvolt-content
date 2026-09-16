@@ -18,6 +18,7 @@ on:
     paths:
       - "content/**"
       - "images/**"
+      - "design/**"
   workflow_dispatch: # allows a manual re-publish from the Actions tab
 
 jobs:
