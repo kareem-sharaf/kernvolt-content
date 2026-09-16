@@ -296,7 +296,7 @@
       "intro": "Building automation is good when it works quietly in the background. We plan systems that stay usable without an app, whose scenes are easy to follow, and that keep running when a manufacturer shuts down its cloud service. Preferably built on KNX.",
       "lead": "Lighting, heating, blinds and security joined up sensibly rather than networked for its own sake.",
       "scope": [
-        "KNX planning, installation and programming",
+        "KNX planning, installation and programming 2",
         "Lighting, heating and blind control",
         "Door entry systems and access control",
         "Network, Wi-Fi coverage and structured cabling",
