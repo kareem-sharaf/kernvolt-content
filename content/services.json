@@ -60,17 +60,25 @@
       "teaser": "Neubau, Sanierung oder Erweiterung: Wir planen und verlegen Ihre komplette Elektroinstallation – normgerecht, sauber und auf den tatsächlichen Bedarf zugeschnitten.",
       "title": "Elektroinstallation"
     },
-    "kareem-sharaf": {
+    "aufzuege-wartung": {
       "benefits": [
-        "Ihr erster Vorteil"
+        "Störungsdienst rund um die Uhr erreichbar",
+        "Wartungsverträge mit festen Intervallen und festem Ansprechpartner",
+        "Lückenlose Dokumentation jedes Einsatzes – als Nachweis Ihrer Betreiberpflichten",
+        "Aufzug und Gebäudeelektrik aus einer Hand – kein Abstimmen zwischen Firmen"
       ],
-      "intro": "Ausführliche Beschreibung dieser Leistung.",
-      "lead": "Einleitung im Seitenkopf.",
+      "intro": "Steht der Aufzug still, merkt es sofort das ganze Haus – vor allem ältere Bewohner, Familien mit Kinderwagen und Menschen im Rollstuhl. Die meisten Ausfälle lassen sich durch regelmäßige Wartung verhindern. Als Betreiber sind Sie außerdem gesetzlich verpflichtet, Ihren Aufzug instand zu halten und regelmäßig prüfen zu lassen. Wir übernehmen die Wartung, beheben Störungen und bereiten Ihre Anlage auf die Prüfungen vor.",
+      "lead": "Wartung nach Herstellervorgaben, schnelle Hilfe bei Störungen und Unterstützung bei allen Pflichtprüfungen – für Personen- und Lastenaufzüge.",
       "scope": [
-        "Erster Leistungspunkt"
+        "Regelmäßige Wartung nach Herstellervorgaben und festem Wartungsplan",
+        "Störungssuche und Reparatur an Steuerung, Antrieb und Türen",
+        "Notdienst bei Stillstand und Befreiung eingeschlossener Personen",
+        "Wartung und Funktionsprüfung des Notrufsystems",
+        "Vorbereitung und Begleitung der Prüfungen durch die zugelassene Überwachungsstelle (ZÜS)",
+        "Behebung von Mängeln aus dem Prüfbericht und Modernisierung der Elektrik"
       ],
-      "teaser": "Kurzbeschreibung für die Übersichtskarte.",
-      "title": "Kareem Sharaf"
+      "teaser": "Regelmäßige Wartung, schnelle Entstörung und Begleitung der Pflichtprüfungen – damit Ihr Aufzug zuverlässig fährt und sicher bleibt.",
+      "title": "Aufzüge Wartung & Entstörung"
     },
     "photovoltaik": {
       "benefits": [
@@ -214,17 +222,25 @@
       "teaser": "New build, refurbishment or extension: we plan and lay your complete electrical installation – to standard, tidily and sized for what you really use.",
       "title": "Electrical installation"
     },
-    "kareem-sharaf": {
+    "aufzuege-wartung": {
       "benefits": [
-        "Your first benefit"
+        "Breakdown service available around the clock",
+        "Maintenance contracts with fixed intervals and a named contact",
+        "Every visit fully documented – evidence that you meet your duties as operator",
+        "Lift and building electrics from one team – no coordinating between firms"
       ],
-      "intro": "Full description of this service.",
-      "lead": "Intro shown in the page header.",
+      "intro": "When a lift stops, the whole building notices at once – above all older residents, families with pushchairs and wheelchair users. Most breakdowns can be prevented with regular maintenance. As the operator, you are also legally required to keep your lift maintained and to have it inspected regularly. We take care of the maintenance, fix faults and prepare your installation for its inspections.",
+      "lead": "Maintenance to the manufacturer's specifications, fast help when a lift breaks down, and support with every mandatory inspection – for passenger and goods lifts.",
       "scope": [
-        "First scope item"
+        "Regular maintenance to the manufacturer's specifications and a fixed schedule",
+        "Fault finding and repair on controls, drive and doors",
+        "Emergency call-out for stopped lifts and release of trapped passengers",
+        "Maintenance and function testing of the emergency call system",
+        "Preparation for and attendance at inspections by the approved inspection body (ZÜS)",
+        "Putting right defects from the inspection report and modernising the electrics"
       ],
-      "teaser": "Short description for the overview card.",
-      "title": "Kareem Sharaf"
+      "teaser": "Regular servicing, fast breakdown repair and support with mandatory inspections – so your lift runs reliably and stays safe.",
+      "title": "Lift maintenance & breakdown repair"
     },
     "photovoltaik": {
       "benefits": [
